@@ -1,0 +1,25 @@
+#blah{
+    width: 300px;
+    height: 200px;
+}
+.foto-produk{
+    widows: 300px;
+    height: 200px;
+}
+
+.sidebar-light-primary .nav-treeview>.nav-item>.nav-link.active, .sidebar-light-primary .nav-treeview>.nav-item>.nav-link.active:hover
+{
+    background-color: #e9e8e8 !important;
+}
+
+.borderless td, .borderless th {
+    border: none;
+}
+
+.tampil{
+    display: block;
+}
+
+.hide{
+    display: none;
+}
